@@ -39,6 +39,11 @@ Developed by: RegisterNumber:*/
 
 
 **RTL realization**
+Logic Diagram
+<img width="1920" height="1080" alt="Logic diagram" src="https://github.com/user-attachments/assets/4494bc8c-ee28-4579-8ff8-2898508f26f2" />
+
+Waveform
+<img width="1920" height="1020" alt="Waveform" src="https://github.com/user-attachments/assets/08488d5f-3373-4970-beb0-8f3c99b1f1da" />
 
 **Output:**
 
