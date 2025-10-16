@@ -35,27 +35,28 @@ Hardware – PCs, Cyclone II , USB flasher
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:*/
-
+Developed by:V Yash Chhajer
+RegisterNumber:25012236
 
 **RTL realization**
+
 Logic Diagram f1
 <img width="1920" height="1080" alt="Logic diagram" src="https://github.com/user-attachments/assets/4494bc8c-ee28-4579-8ff8-2898508f26f2" />
 
-Waveform f1
-<img width="1920" height="1020" alt="Waveform" src="https://github.com/user-attachments/assets/08488d5f-3373-4970-beb0-8f3c99b1f1da" />
-
 Logic Diagram f2
 <img width="1211" height="670" alt="Screenshot 2025-10-09 231013" src="https://github.com/user-attachments/assets/b9ad2cb0-3b80-4049-9d0d-91261ac1ca4e" />
-
-Waveformf2
-<img width="1920" height="1080" alt="Screenshot 2025-10-09 231420" src="https://github.com/user-attachments/assets/93248e9c-df4e-4248-a7f4-6cd555a3753b" />
 
 **Output:**
 
 **RTL**
 
 **Timing Diagram**
+
+Waveform f1
+<img width="1920" height="1020" alt="Waveform" src="https://github.com/user-attachments/assets/08488d5f-3373-4970-beb0-8f3c99b1f1da" />
+
+Waveformf2
+<img width="1920" height="1080" alt="Screenshot 2025-10-09 231420" src="https://github.com/user-attachments/assets/93248e9c-df4e-4248-a7f4-6cd555a3753b" />
 
 **Result:**
 
